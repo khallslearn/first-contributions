@@ -3578,7 +3578,7 @@ add jerry404lee
 - [Aisha Gaines](https://github.com/aishamikale)
 - [Sridhar Maskeri](https://github.com/floating-dynamo)
 - [Simon Wild](https:/github.com/admsmw)
-- [Kevin](https://github.com/khallslearn/)
+- [Kevin](https://github.com/khallslearn)
 - [workingkolenko]
 - [Arash](https://github.com/SinaDashti)
 - [Andy](https://github.com/andy814/)
